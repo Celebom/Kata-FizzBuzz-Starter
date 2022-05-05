@@ -1,0 +1,13 @@
+{
+  "name": "kata-js-start",
+  "version": "1.0.0",
+  "description": "A repo to start start code katas fast",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "^10.0.0"
+  },
+  "type": "module"
+}
